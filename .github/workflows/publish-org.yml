@@ -1,0 +1,35 @@
+name: Publish Org to HTML
+
+on:
+  push:
+    branches:
+      - main
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  convert_org:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Emacs
+        # This action installs Emacs on the runner
+        uses: purcell/setup-emacs@v3.0
+
+      - name: Convert .org files to .html
+        run: |
+          # Loop through all .org files and convert them
+          for org_file in *.org; do
+            emacs --batch --eval "(require 'org)" "$org_file" --funcall org-html-export-to-html
+          done
+        # The above command uses emacs in batch mode to export the org file to an html file with the same name
+
+      - name: Upload HTML artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: html-output
+          path: |
+            *.html
+            !*.org.html # Exclude any intermediate files if necessary
