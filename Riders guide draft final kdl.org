@@ -1,5 +1,6 @@
 
 
+
 #+Title: HCE Riders Guide
 #+Author: HCE Management Team (Kyle Looper - Editor)
 #+Options: num:nil
@@ -29,7 +30,7 @@
 +1 (317) 773-8781
 
 
-Hamilton County Express provides regional public transportation for all communities in Hamilton County, Indiana and is operated by Janus Developmental Services, located at 1555 Westfield Road in Noblesville, Indiana. All members of the public are eligible for transportation support for any  purpose within Hamilton County during the days and hours of HCE operation.
+Hamilton County Express provides regional public transportation for all communities in Hamilton County, Indiana, and is operated by Janus Developmental Services, located at 1555 Westfield Road in Noblesville, Indiana. All members of the public are eligible for transportation support for any  purpose within Hamilton County during the days and hours of HCE operation.
 
 * Understanding the Hamilton County Express Transportation Service
 Hamilton County Express is an on-demand, curb-to-curb, mobility-accessible transportation service for Hamilton County Indiana.
@@ -101,7 +102,7 @@ Hamilton County is generally square and is bounded by North 1200 East as the wes
 [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Screenshots/Screenshot 2025-12-24 103041.png]]
   
 Currently HCE provides service connections to the following surrounding counties:
-- *Marion County* - lndyGo +1 (317) 635-3344 ([[https://indygo.net/routes][IndyGo web site]]). HCE provides service connections to and from the following lndyGo bus stops in Indianapolis:
+- *Marion County* - IndyGo +1 (317) 635-3344 ([[https://indygo.net/routes][IndyGo web site]]). HCE provides service connections to and from the following IndyGo bus stops in Indianapolis:
   + *St. Vincent Indianapolis Hospital* (bus shelter on Harcourt Road)
   + *Keystone at the Crossing Mall* (in front of Starbucks/Cheesecake Factory)
   + *Nora Plaza* (bus shelter on westbound 86th at the Monon Trail)
@@ -111,8 +112,8 @@ Currently HCE provides service connections to the following surrounding counties
    connections to and from the following (BATS) connecting locations in Zionsville:
   + *Montgomery Aviation* 11329 East State Road 32, Zionsville, IN 46077
   + *Zionsville Presbyterian Church* 4775 West 116th Street, Zionsville, IN 46077
-- *Madison Co.* - Transportation for Rural Areas of Madison Co. (TRAM) ([[https://https://www.cirta.us/county-connect/transportation-resources/tram/][TRAM web site]]). +1 (885) 743-3843. HCE provides service connections to and from the following (TRAM) connecting location in Pendleton:
-  + *Loves Travel Stop* 9000 lnterpark Dr., Pendleton, IN 46064
+- *Madison Co.* - Transportation for Rural Areas of Madison Co. (TRAM) ([[https://www.cirta.us/county-connect/transportation-resources/tram/][TRAM web site]]). +1 (885) 743-3843. HCE provides service connections to and from the following (TRAM) connecting location in Pendleton:
+  + *Loves Travel Stop* 9000 Interpark Dr., Pendleton, IN 46064
 
 * Setting Up an HCE Rider Account
 Before you can schedule rides on the Hamilton County Express (HCE) service, you have to call in to the reservations line — +1 (317) 773-2688 — to get set up on the HCE system. The following information is required to set up an account, so be prepared to provide it:
@@ -137,7 +138,7 @@ HCE provides telephone translation services upon request for most languages, inc
 - *How you intend to pay:* Generally, this will be cash or eWallet. See [[Paying for Trips on HCE][Paying for Trips on HCE]] for more information about payment options.
 - *Home address:* Having a home address outside of Hamilton County does not exclude anyone as a rider for HCE, but we cannot pick up at residences or businesses outside of Hamilton County, except for approved county connection points (see [[Hamilton County Express Service Area][Hamilton County Express Service Area]] for more information about connection points). Be prepared to provide information about where and how you want to be picked up, keeping in mind that buses are generally prohibited from entering rider driveways except as a reasonable accommodation.
   
-After you call in to set up your rider account, you can use your phone number or other credential to access your schedule information via the HCE rides app. See X-REF for more information about the HCE Rides mobile app.
+After you call in to set up your rider account, you can use your phone number or other credential to access your schedule information via the HCE rides app. See [[Scheduling Trips Using the HCE Rides App][Scheduling Trips Using the HCE Rides App]] for more information about the HCE Rides mobile app.
 
 #+begin_tip
 Your eWallet is automatically created when your rider account is created. You can add it at any time by giving money to the driver.
@@ -192,7 +193,7 @@ Currently, trips can be scheduled up to one week in advance. There are two ways 
 - *By calling the Reservations line* at +1 (317) 773-2688 between the hours of 8:00 AM and 4:00 PM Monday through Friday. The Customer Service representatives can schedule rides for you. If there is no availability for your trip, the Customer Service representative may offer to create an unmatched request, which leaves your request in the system in an unmatched state, but allows you to get the ride if resources change or if other riders cancel. You will receive a notification if and when the unmatched ride is matched to a rider.
 - *For hearing and speech impaired individuals:* Call the following number to access support for a text telephone device — +1 (800) 743-3333.
 - *Translation support* is available on demand by requesting translation and the language to translate at any HCE number.
-Trips must be scheduled a minimum of 2 hours prior to the trip departure time, but this may be changed to 24 hours prior during periods of low driver availability. Messages will be sent out to all riders before changing the minimum scheduling window. For appointments that end earlier than expected, such as some doctor’s appointments, Dispatch can attempt to get you an earlier return ride — +1 (317) 776-3266.
+Trips must be scheduled a minimum of 2 hours prior to the trip departure time, but this may be changed to 24 hours prior during periods of low driver availability. Messages will be sent out to all riders before changing the minimum scheduling window. For appointments that end earlier than expected, such as some doctor’s appointments, Dispatch can attempt to get you an earlier return ride — +1 (317) 776-3226.
 
 #+begin_note
 All rides are scheduled based on availability. Lack of availability due to high demand may require you to negotiate your pick-up and drop-off times and could result in your trip request being denied.
@@ -241,9 +242,9 @@ You can schedule trips yourself using the HCE Rides app without having to call H
     *4. Click and review the four buttons above the Select Hamilton County Express button.*
         They are:
           + *Number of riders:* Clicking on the top-left button allows you to add additional riders to a single trip, such as a spouse, child, or friend. Click Confirm Riders to confirm your choices.
-          + *Accessibility options:* Clicking on the top-right button allows you to ensure that all accessibility needs for the ride are accounted for. Click Confirm Accessibility to confirm your selections.
+          + *Accessibility options:* Clicking on the top-right button allows you to ensure that all accessibility needs for the ride are accounted for. Click Confirm Accessibility to confirm your selections. Check out [[Changing Accessiblity Options in the HCE Rides App][Changing Accessiblity Options in the HCE Rides App]] for more information.
           + *Booking Time:* Clicking on the bottom-left button allows you to change the date and time for your ride. If you are going to an appointment, then you should choose the Arrive By button before selecting a time, as shown in Figure 6. See [[Scheduling Rides][Scheduling Rides]] above to understand the difference between Leave At and Arrive By. Click Confirm Booking Time to lock it in.
-         + *Payment Method:* Clicking the bottom-left button allows you to choose between the cash and eWallet options. The balance on your eWallet is shown next to the Wallet (Reloadable) option, as shown in Figure 7. Click Confirm Payment Method to continue. *Note that your eWallet will be charged when you complete the reservation.* See [[Paying for Trips on HCE][Paying for Trips on HCE]] for more information.
+         + *Payment Method:* Clicking the bottom-right button allows you to choose between the cash and eWallet options. The balance on your eWallet is shown next to the Wallet (Reloadable) option, as shown in Figure 7. Click Confirm Payment Method to continue. *Note that your eWallet will be charged when you complete the reservation.* See [[Paying for Trips on HCE][Paying for Trips on HCE]] for more information.
 
        #+CAPTION: Choosing the date and time to arrive by. 
        #+NAME: Figure 6:
@@ -268,6 +269,7 @@ You can schedule trips yourself using the HCE Rides app without having to call H
        #+ATTR_HTML: :width 360px
        [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig08.png]]
 
+
     *6. Click the Schedule Ride button.*
 
 	You will see a confirmation of your ride, as shown in Figure 9.
@@ -277,7 +279,7 @@ You can schedule trips yourself using the HCE Rides app without having to call H
        #+ATTR_HTML: :width 360px
        [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig09.png]]
 
-       The HCE Rides app won't allow you to create an unmatched request (, but the trip may become unmatched due to a service disruption
+       The HCE Rides app won't allow you to create an unmatched request, but the trip may become unmatched due to a service disruption
        See [[Understanding Unmatched Requests][Understanding Unmatched Requests]] for more information about trips in Unmatched status.
 
     *7. Click the Book Return button and select the time your shift or appointment ends to quickly create a return trip, if you need one.*
@@ -295,7 +297,7 @@ Here are some reasons in which it might be necessary to move the pin:
     - *Google Maps error:* If the pin points to the wrong building, then move it to the correct location.
 
 There are also some good reasons not to move the pin, as follows:
-    - Moving the pin can cause the name of the business to disaappear from the driver manifest, which can cause the bus to be later than it otherwise would be. Drivers know the best way to get to Meijer, but they may not recognize the address.
+    - Moving the pin can cause the name of the business to disappear from the driver manifest, which can cause the bus to be later than it otherwise would be. Drivers know the best way to get to Meijer, but they may not recognize the address.
     - Moving the pin can cause the address to change.
 
 To move the pin, click the Set on map option, and then drag the map as shown in Figure 10.
@@ -356,8 +358,7 @@ You should plan to have the following information ready before scheduling a trip
 Please have the following information ready when scheduling a ride:
 - *Addresses:* For both origin and destination. If you provide an incorrect address, HCE is not responsible for the timing of your ride, and you may cause other riders to be late.
 - *Times:* You need to know the time when you need to arrive (Arrive By) and time when you finish and are ready to go home (Leave At). See above in this section for a more detailed explanation of Arrive By and Leave At.
-- *Phone number where you can be reached:* This should be in your profile if it’s a mobile p
-  hone, but if you use a landline phone at home, please provide the phone number at your destination.
+- *Phone number where you can be reached:* This should be in your profile if it’s a mobile phone, but if you use a landline phone at home, please provide the phone number at your destination.
 - *Mobility-accessible needs:* Ensure that this information is correct, particularly if it’s different than your profile.
 - *Other riders traveling with you:* Be sure that children, PCA, service animals, and anyone else you plan to travel on your trip are in your request.
 - *Door locations:* If you are being dropped and picked up at a particular door, such as at a hospital, be sure to have this information.
@@ -369,7 +370,7 @@ If you change your request after receiving your trip, you may lose your trip. If
 See [[Hours of Operation and Holidays][Hours of Operation and Holidays]] for holiday hours.
 
 ** Understanding Pickup Windows
-Hamilton County Express is a shared-ride transportation service. Our goal is to provide as many rides as possible to as many riders as possible, while still getting everyone to their destinations on time. Per Federal Transit Adminstration rules, the following rules apply to all shared ride services:
+Hamilton County Express is a shared-ride transportation service. Our goal is to provide as many rides as possible to as many riders as possible, while still getting everyone to their destinations on time. Per Federal Transit Administration rules, the following rules apply to all shared ride services:
 - *Pickup window:* A 30-minute window for the vehicle.
 - *Ready by window start:* You must be ready when the window begins.
 - *Five-minute wait time:* You have five minutes to board the bus after it arrives before being made a no-show and having your ride cancelled. In addition, your return ride may also be canceled.
@@ -410,7 +411,7 @@ HCE tries to fulfill every ride request, but requests sometimes outstrip our cap
 #+end_note
 
 ** Cancelling Scheduled Trips
-Things come up. Things change. We understand this. From time to time, it may be necessary to cancel your trip. Please cancel your trip as soon as possible to provide space for other riders. It’s much better to cancel your existing trip than to have the bus come to pick you up and not board it. Not boarding a trip that has come to pick you up is classified as a No-Show, and it can affect your access to future rides. See X-REF for more information.
+Things come up. Things change. We understand this. From time to time, it may be necessary to cancel your trip. Please cancel your trip as soon as possible to provide space for other riders. It’s much better to cancel your existing trip than to have the bus come to pick you up and not board it. Not boarding a trip that has come to pick you up is classified as a No-Show, and it can affect your access to future rides. See our [[Policy: Late Cancellations and No-Shows][policy]] for more information.
 You can cancel your accepted trip or unmatched request in three ways:
 - *HCE Rides app:* You can cancel your trip or request at any time via the HCE Rides app.
 - *Via Interactive Text:* You can press 3 in reply to your 24-hour before or 1 hour before notification text to cancel your accepted ride requests. The request isn’t cancelled until you confirm the cancellation by typing CONFIRM.
@@ -504,7 +505,7 @@ The above reviews are obviously tongue in cheek  — /our drivers would never!/ 
 HCE provides on-demand public transportation comprising a fleet of fully accessible vehicles equipped with motorized lifts and/or ramps to facilitate vehicle entry and exiting by individuals utilizing mobility devices.
 It’s important that you provide all information pertaining to special needs, challenges, and accessibility characteristics when you set up your profile with a Hamilton County Express customer service agent when setting up your account. That way, the driver knows what accommodations are necessary, and we can ensure that we send a bus has the right equipment to fulfill your ride request.
 Here are a couple of important notes about our mobility-accessible services:
-- Reasonable Accomodations: The following are accommodations that HCE can make for passengers with special needs:
+- Reasonable Accommodations: The following are accommodations that HCE can make for passengers with special needs:
   + *Door-to-door driver assistance:* HCE service is /curb-to-curb/ (origin to destination), but drivers can assist all passengers who require it onto and off the vehicles. /Door-to-door service/ (assistance provided by the driver from the door to and from the bus) is available upon request to the driver, customer service, or dispatch for those needing reasonable assistance (arm holding, guiding visually impaired riders, pushing a wheelchair, and so on) to or from the doorway of their home/building main entrance and bus. 
   + *Driveway Entry:* HCE buses are generally prohibited from entering rider driveways to avoid property damage and the possibility of the bus becoming stuck, but drivers may be allowed to do so as a reasonable accommodation with expressed approval from HCE management. Call dispatch — +1 (317) 776-3226 — and ask for a manager to discuss this possibility.
     
@@ -514,14 +515,30 @@ Here are a couple of important notes about our mobility-accessible services:
   
   + *Personal Care Assistants:* Riders with special needs can designate a personal care assistant (PCA) to ride along with them and assist them at no charge for the accompanying PCA.
   + *Service Animals:* Service animals can ride with their primaries at no cost.
-  + *Mobility equipment supported by HCE:* Wheelchairs, electric wheelchairs, mobility scooters, walkers, lift access, portable oxygen tanks, and canes. HCE maintains a fleet of minvans that require ramp access. Contact Dispatch at +1(317) 776-3266 if you may have difficulty negotiating the ramp access due to use of a walker.
+  + *Mobility equipment supported by HCE:* Wheelchairs, electric wheelchairs, mobility scooters, walkers, lift access, portable oxygen tanks, and canes. HCE maintains a fleet of minvans that require ramp access. Contact Dispatch at +1 (317) 776-3226 if you may have difficulty negotiating the ramp access due to use of a walker.
 
-- *Accessibility Constraints:* There are a few constraints to the level of service that drivers can provide, as follows:
+** Accessibility Constraints
+There are a few constraints to the level of service that drivers can provide, as follows:
   + *No entry:* HCE drivers are strictly prohibited from entering any private residence or business, and the vehicle must always remain in the view of the driver.
   + *No weight bearing:* Drivers are prohibited from bearing the full body weight of riders or their equipment because of risk of injury to the passenger and driver.
   + *No stairs:* HCE is not responsible for the accessibility of origin and destination locations. For example, HCE drivers are not responsible for assisting riders using mobility devices up or down any steps or stairs if there is no legal access (wheelchair ramps, elevators, and so on).
   + *No clearing pathways:* HCE is not responsible for clearing pathways (for example, snow/ice/debris removal, and/or creating pathways across dirt, grass, gravel, and so on) to provide accessibility.
   + *No operation of electric mobility devices:* Drivers cannot operate an electric mobility device, nor can they move a powered-down or dead electric wheelchair or scooter.
+** Changing Accessibility Options in the HCE Rides App
+You can manage the accessibility options per ride or change your defaults in the HCE Rides app if you like.
+
+To change your default accessibility preferences so that the needed equipment is always on every ride, follow these steps:
+  1. Click the profile icon in the top-left corner of the HCE Rides app.
+  2. Click the Settings Option.
+  3. Choose Accessibility Features under Default Trip Preferences.
+  4. Choose the Accessibility Features you will need by default, including lift, walker, wheelchair, service animal, and child seats for infants by clicking the + next to each feature you need.
+
+To set up particular needs for a particular ride, follow these steps:
+  1. Set up your ride as described in [[Scheduling Trips Using the HCE Rides App][Scheduling Trips Using the HCE Rides App]].
+  2. Before clicking the Select Hamilton County Express button, click the Accessibility button above it (top-right button).
+  3. Select the accessibility features you require by clicking the + sign to add it to that ride only.
+     
+
 * Hamilton County Express Policies and Disclosures
 This section contains policies of Hamilton County Express, consequences, the appeals process, and some important disclosures.
 
@@ -553,7 +570,7 @@ Food and drink can only be brought on the bus if they are in containers that wil
 #+end_note
 
 ** Policy: Language Line
-Tranlation services are availble upon request for calls to customer service agents, dispatchers, or managers. Request a translator and provide the language requested.
+Translation services are available upon request for calls to customer service agents, dispatchers, or managers. Request a translator and provide the language requested.
 
 /Hay servicios de traducción disponibles previa solicitud para llamadas a agentes de atención al cliente, operadores o gerentes. Solicite un traductor e indique el idioma deseado./
 
@@ -580,7 +597,6 @@ Frequent no shows (two or more in a 30-day period) and/or late Cancellations (fo
 - *2nd occurrence:* 2-week suspension
 - *3rd occurrence:* 1-month suspension
 - *4th occurrence:* 3-month suspension
-*** TODO Come to consensus about Late Cancellation and No Show policy 
   
 In addition, riders who no show for their outbound trip may have their return trip automatically cancelled. Riders can call the dispatch office at least one hour prior to their previously scheduled return trip to see whether the return can be created again.
 
@@ -591,14 +607,11 @@ Because of the high demand for service and to ensure that service is generally n
 Riders can contact the HCE Dispatch Office at (317) 776-3226 during normal business hours to report a lost item and make plans to retrieve their lost property.
 Any items in Lost and Found not claimed after 30 days may be discarded at the discretion of Hamilton County Express.
 
-*** TODO Do we need a definition and policy regarding sustained negative eWallet balance?
-
 ** Policy: On-Board Vehicle Prohibitions
 The following is prohibited on HCE vehicles:
 - There is no smoking on any Hamilton County Express vehicles (includes electronic vaping devices).
 - Weapons and firearms are not allowed on HCE vehicles.
 - Hazardous materials are not allowed on HCE vehicles.
-*** TODO We may need more of a definition of hazardous materials here. Bleach, for example, is a hazardous material, as are many household products.
 
 ** Policy: Personal Care Attendant
 A personal care attendant (PCA) is welcome to accompany a passenger at no charge. All PCA's must be able to provide the assistance required of the rider, without the assistance of the driver. Please inform HCE about your attendant at the time that you schedule the trip.
@@ -652,15 +665,14 @@ Failure to give 72-hour notice of subscription suspension may result in schedule
 #+end_warning
 
 To apply for a subscription trip, fill out this online [[https://docs.google.com/forms/d/e/1FAIpQLSdDRpElzaYAbluEVRgGbxNY8t3oK94Z-GJPo9FaMmoQxOsqAg/viewform?usp=sharing&ouid=104367918995370115081][online subscripton request form]].
-*** TODO Come to consensus about policy for revoking subscription trips. In some cases (No-shows, late cancels, and so on), it seems like this should be the /first/ thing that happens. These may happen because of changes to traffic patterns, times, changing needs of HCE, etc., so I don't know that it should always be punitive. Maybe something to the effect that subscription trips are a privilege that are totally within the scope of HCE management to approve and continue based on the best interest of Hamilton County Express. See wording of Rider Conduct policy note.
 
 ** Policy: Suspension Appeals
 Appeals of any HCE actions regarding suspension of service should be submitted in writing and addressed to:
 Hamilton County Express Attention: Transportation Manager 1555 Westfield Road
 Noblesville, IN 46062
 
-Appeal letters must be received in writing within fourteeen (14) days of receipt of notification of suspension, or the suspension will go into effect.
-*** TODO This is what Teresa told me to put in here, kind of. We really need to flesh out exactly what the appeals process is, who conducts the appeals, and what, for example, happens when we cannot contact the individual, such as a home address outside of Hamilton County. 14 days seems pretty long, as they will already be halfway into the next month before the previous suspension would go into effect. There's really nothing 
+Appeal letters must be received in writing within fourteen (14) days of receipt of notification of suspension, or the suspension will go into effect.
+
 
 ** Rider Reminders about HCE Policies
 - HCE is a shared ride service. Remember, the driver may be picking up and dropping off other passengers before reaching your destination.
@@ -697,7 +709,7 @@ The purpose of the Transportation Advisory Committee is to provide HCE with reco
   
 ** Disclosure: Alternative Formats for Riders Guide
 This material is available in an alternate format upon request.
-*** TODO Add formatting codes for Latex PDF export and link to that here.
+
 
 Hamilton County Express Public Transit
 Operated by Janus Developmental Services, Inc.
