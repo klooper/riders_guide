@@ -99,7 +99,7 @@ Hamilton County is generally square and is bounded by North 1200 East as the wes
 #+CAPTION: The Hamilton County Express service area.
 #+NAME: *Figure 1:*
 #+ATTR_HTML: :width 360px
-[[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Screenshots/Screenshot 2025-12-24 103041.png]]
+[[https://raw.githubusercontent.com/klooper/riders_guide/main/img/Screenshot 2025-12-24 103041.png]]
   
 Currently HCE provides service connections to the following surrounding counties:
 - *Marion County* - IndyGo +1 (317) 635-3344 ([[https://indygo.net/routes][IndyGo web site]]). HCE provides service connections to and from the following IndyGo bus stops in Indianapolis:
@@ -206,7 +206,7 @@ You can schedule trips yourself using the HCE Rides app without having to call H
         #+CAPTION: The Where To screen asks for your destination. 
         #+NAME: *Figure 2:
         #+ATTR_HTML: :width 360px
-	[[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Screenshots/rgfig01.png.png]]
+	[[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig01.png]]
 
     *2. Type your /destination/ into the Where To search box.*
 
@@ -315,7 +315,7 @@ In general, if you are going to be using the normal or main entrance to a busine
        #+CAPTION:
        #+NAME:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfigtip01.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfigtip01.png]]
 #+end_tip
        
 
