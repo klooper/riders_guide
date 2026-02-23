@@ -7,7 +7,7 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 #+ATTR_HTML: :width 90px :align right
-[[~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Documents/Org/img/HCE.svg]]
+[[https://raw.githubusercontent.com/klooper/riders_guide/main/img/HCE.svg]]
 
 
 /Public Transportation for Hamilton County, Indiana/
@@ -15,7 +15,7 @@
 
 
 #+ATTR_HTML: :width 360px
-[[file:img/HCE_Van.jpg]]
+[[https://raw.githubusercontent.com/klooper/riders_guide/main/img/HCE_Van.jpg]]
 
 
 *Contact:*
@@ -217,14 +217,14 @@ You can schedule trips yourself using the HCE Rides app without having to call H
        #+CAPTION: Enter the name of place you want to go, if possible. 
        #+NAME: Figure 3:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig03.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig03.png]]
 
        After you choose your destination, the Set Pickup location appears, as shown in Figure 4.
 
        #+CAPTION: Your current location is the default pickup location. 
        #+NAME: Figure 4:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig04.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig04.png]]
 
     *3. If the default pickup location is correct, then click the Set As Pickup button.*
     
@@ -233,7 +233,7 @@ You can schedule trips yourself using the HCE Rides app without having to call H
        #+CAPTION: Before you Select Hamilton County Express, review your choices. 
        #+NAME: Figure 5:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig05.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig05.png]]
 
        #+begin_caution
        Don't click the Select Hamilton County Express button yet!
@@ -249,12 +249,12 @@ You can schedule trips yourself using the HCE Rides app without having to call H
        #+CAPTION: Choosing the date and time to arrive by. 
        #+NAME: Figure 6:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig06.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig06.png]]
 
        #+CAPTION: The eWallet option shows your balance before you book a trip. 
        #+NAME: Figure 7:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig07.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig07.png]]
 
        #+begin_note
        If you choose Cash, then be sure to give the driver cash when you board the bus. Change will be added to your eWallet.
@@ -267,7 +267,7 @@ You can schedule trips yourself using the HCE Rides app without having to call H
        #+CAPTION: Confirm your ride.
        #+NAME: Figure 8:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig08.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig08.png]]
 
 
     *6. Click the Schedule Ride button.*
@@ -277,7 +277,7 @@ You can schedule trips yourself using the HCE Rides app without having to call H
        #+CAPTION: If you don't see  "Ride with /Driver/," then the ride is in Unmatched status.
        #+NAME: Figure 9:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig09.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig09.png]]
 
        The HCE Rides app won't allow you to create an unmatched request, but the trip may become unmatched due to a service disruption
        See [[Understanding Unmatched Requests][Understanding Unmatched Requests]] for more information about trips in Unmatched status.
@@ -305,7 +305,7 @@ To move the pin, click the Set on map option, and then drag the map as shown in 
        #+CAPTION: Drag the map to move the pin.
        #+NAME: Figure 10:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig10.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig10.png]]
 
 In general, if you are going to be using the normal or main entrance to a business, then it's better not to move the pin.                      .
 
@@ -325,7 +325,7 @@ You can add a favorite location any time you choose a destination. Just tap the 
        #+CAPTION: Click the heart symbol by a location to add it to your favorites list.
        #+NAME: Figure 11:
        #+ATTR_HTML: :width 180px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig11.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig11.png]]
 
  After you set a favorite location, it will be available any time you tap in the Where To box to choose a destination.
 
@@ -335,7 +335,7 @@ You can add a favorite location any time you choose a destination. Just tap the 
        #+CAPTION: The profile button.
        #+NAME: Figure 12:
        #+ATTR_HTML: :width 180px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig13.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig13.png]]
 
     2. Choose Settings.
     3. Choose Favorite Locations.
@@ -345,7 +345,7 @@ You can add a favorite location any time you choose a destination. Just tap the 
        #+CAPTION: The Edit Favorite Location screen.
        #+NAME: Figure 14:
        #+ATTR_HTML: :width 360px
-       [[file:~/OneDrive - JANUS DEVELOPMENTAL SERVICES, INC/Pictures/Riders guide/rgfig14.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig14.png]]
        
        
  #+begin_tip
