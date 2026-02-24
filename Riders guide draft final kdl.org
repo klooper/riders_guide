@@ -312,8 +312,6 @@ In general, if you are going to be using the normal or main entrance to a busine
 #+begin_tip
       Sometimes the best way to communicate with the driver is by adding a pickup note, where you can give information such as a particular door or entry code, as shown below.
 
-       #+CAPTION:
-       #+NAME:
        #+ATTR_HTML: :width 360px
        [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfigtip01.png]]
 #+end_tip
@@ -351,8 +349,6 @@ You can add a favorite location any time you choose a destination. Just tap the 
  #+begin_tip
  You can also change the icon of any favorite in the same screen shown below:
 
-       #+CAPTION:
-       #+NAME:
        #+ATTR_HTML: :width 360px
        [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfigtip02.png]]
 
