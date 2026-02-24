@@ -82,7 +82,8 @@ Hamilton County Express operates on the following schedule:
   | Thanksgiving     | Thursday | 11/26/2026 | /No Service/  |
   | Thanksgiving     | Friday   | 11/27/2026 | /No Service/  |
   | Thanksgiving     | Saturday | 11/28/2026 | /No Service/  |
-  | Christmas        | Friday   | 12/25/2026 | /No Service/  |
+  | Christmas Eve    | Thursday | 12/24/2026 | /No Service/  |
+  | Christmas Day    | Friday   | 12/25/2026 | /No Service/  |
   | Christmas        | Saturday | 12/26/2026 | /No Service/  |
 
       
