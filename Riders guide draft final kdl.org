@@ -89,7 +89,6 @@ Hamilton County Express operates on the following schedule:
   | Christmas        | Saturday | 12/26/2026 | /No Service/  |
 
      
-
 ** Hamilton County Express Service Area
 Hamilton County is generally square and is bounded by North 1200 East as the western boundary, 296th Street as the northern boundary, North 300 W (Atlantic Road/State Road 13) as the eastern boundary, and 96th street as the southern boundary. Cities and towns within Hamilton County, Indiana include, but are not limited to:
 - *Noblesville*
@@ -327,7 +326,7 @@ You can add a favorite location any time you choose a destination. Just tap the 
        #+CAPTION: Click the heart symbol by a location to add it to your favorites list.
        #+NAME: Figure 11:
        #+ATTR_HTML: :width 180px
-       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig11.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig12.png]]
 
  After you set a favorite location, it will be available any time you tap in the Where To box to choose a destination.
 
@@ -337,7 +336,7 @@ You can add a favorite location any time you choose a destination. Just tap the 
        #+CAPTION: The profile button.
        #+NAME: Figure 12:
        #+ATTR_HTML: :width 180px
-       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig12.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig13.png]]
 
     2. Choose Settings.
     3. Choose Favorite Locations.
@@ -347,7 +346,7 @@ You can add a favorite location any time you choose a destination. Just tap the 
        #+CAPTION: The Edit Favorite Location screen.
        #+NAME: Figure 13:
        #+ATTR_HTML: :width 360px
-       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig13.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig14.png]]
        
        
  #+begin_tip
@@ -418,7 +417,7 @@ HCE tries to fulfill every ride request, but requests sometimes outstrip our cap
 #+end_note
 
 ** Cancelling Scheduled Trips
-Things come up. Things change. We understand this. From time to time, it may be necessary to cancel your trip. Please cancel your trip as soon as possible to provide space for other riders. It’s much better to cancel your existing trip than to have the bus come to pick you up and not board it. Not boarding a trip that has come to pick you up is classified as a No-Show, and it can affect your access to future rides. See X-REF for more information.
+Things come up. Things change. We understand this. From time to time, it may be necessary to cancel your trip. Please cancel your trip as soon as possible to provide space for other riders. It’s much better to cancel your existing trip than to have the bus come to pick you up and not board it. Not boarding a trip that has come to pick you up is classified as a No-Show, and it can affect your access to future rides.
 You can cancel your accepted trip or unmatched request in three ways:
 - *HCE Rides app:* You can cancel your trip or request at any time via the HCE Rides app.
 - *Via Interactive Text:* You can press 3 in reply to your 24-hour before or 1 hour before notification text to cancel your accepted ride requests. The request isn’t cancelled until you confirm the cancellation by typing CONFIRM.
