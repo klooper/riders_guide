@@ -27,8 +27,8 @@ jobs:
           emacs --batch \
             --eval "(require 'org)" \
             --eval "(require 'ox-html)" \
-            --visit "Riders guide draft final kdl.org" \
-            --funcall org-html-export-to-html
+            --file "Riders guide draft final kdl.org" \
+            -f org-html-export-to-html
 
       - name: Commit and push HTML
         run: |
