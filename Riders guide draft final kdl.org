@@ -4,7 +4,7 @@
 #+Title: HCE Riders Guide
 #+Author: HCE Management Team (Kyle Looper - Editor)
 #+Options: num:nil
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/html-theme-readtheorg.setup
 
 #+ATTR_HTML: :width 90px :align right
 [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/HCE.svg]]
@@ -349,7 +349,13 @@ You can add a favorite location any time you choose a destination. Just tap the 
        
        
  #+begin_tip
- You can also change the icon of any favorite in the same screen shown in Figure 14.
+ You can also change the icon of any favorite in the same screen shown below:
+
+       #+CAPTION:
+       #+NAME:
+       #+ATTR_HTML: :width 360px
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfigtip02.png]]
+
  #+end_tip
  
 
@@ -435,6 +441,7 @@ In addition, you can choose from the following languages to receive notification
 - German
 - Japanese
    
+** Getting Text Notifications via SMS
 If you provide a mobile phone number when you sign up, then your default notification system will be text message. HCE provides notifications throughout the life of your trip request. You can expect the following notifications if you are getting text messages:
 - *Ride request created:* This lets you know that a request has been made for your trip and is in our system. This does not mean that you have the ride.
 - *Ride request accepted:* This lets you know that your request has been scheduled with a driver. This means that you have the ride. It also gives you details about the ride as it exists at creation. The schedule may still change between the time of its creation and the ride itself.
@@ -465,6 +472,20 @@ In addition to the notifications listed above, you may also receive some other n
 - *Low eWallet balance:* When your eWallet balance is low, you will receive this text to remind you to provide some more money for your eWallet.
 - *Estimated drop-off time:* When the bus arrives at the pickup location, Spare Engine generates an estimate of what time the drop-off will be, which is convenient for families of some riders. This estimate is only provided once, and traffic conditions, accidents, breakdowns and other unusual events can still impact drop-off times. If a ride is unusually late, please contact Dispatch for information about the current ride.
 - *Area emergencies:* HCE also sends out notifications via text and voicemail regarding inclement weather or other emergencies that may affect riders of the service.
+
+** Getting Notifications via the HCE Rides App
+Text messages have the issue of possibly being halted if a text message doesn't reach your phone, but you can get the same messages via the HCE Rides app, and these won't be turned off. You can see the current ETA of your trips on the app as well. If you do decide to get your notifications via the HCE Rides app on an Android phone, then you should consider turning on the option to save your notification history so that you can view notifications after they appear. Otherwise, after you click on an Android notification, it's gone forever.
+
+On iPhone, you can view the Notification Center to view old notifications. (From the lock screen, swipe up from the middle of the screen. From an active iPhone, swipe down from the center of the top of the screen. iPhone notifications remain until deleted by default.)
+
+On Android, go to Settings > Notifications > Advanced Settings > Notification History. Toggle the Use Notification History setting to on. This allows you to view the notification history, as shown in Figure 14.
+
+
+  #+CAPTION: Android notification history.
+  #+NAME: Figure 14:
+  #+ATTR_HTML: :width 360px
+  [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig15.png]]
+
 * Riding on Hamilton County Express
 You’ve called Hamilton County Express and carefully given the information necessary for your profile. You’ve scheduled your trip. You’ve gotten what seems like a mountain of notifications about your trip (so many notifications!). It’s finally time to ride the bus to your destination. This section provides everything you need to know about being a great rider of our service.
 Your first interaction with the bus comes when you receive the Vehicle Arriving at Pickup Location notification. You should be watching for the bus in the next minute or two when this notification arrives, and you should already have everything you need to take with you ready. After the bus arrives, the bus will wait for five minutes for you to board, but taking less than the full five minutes is appreciated to keep other passengers on time.

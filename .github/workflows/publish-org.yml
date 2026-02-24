@@ -4,32 +4,36 @@ on:
   push:
     branches:
       - main
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   convert_org:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Set up Emacs
-        # This action installs Emacs on the runner
-        uses: purcell/setup-emacs@v3.0
-
-      - name: Convert .org files to .html
-        run: |
-          # Loop through all .org files and convert them
-          for org_file in *.org; do
-            emacs --batch --eval "(require 'org)" "$org_file" --funcall org-html-export-to-html
-          done
-        # The above command uses emacs in batch mode to export the org file to an html file with the same name
-
-      - name: Upload HTML artifacts
-        uses: actions/upload-artifact@v4
+        uses: purcell/setup-emacs@master
         with:
-          name: html-output
-          path: |
-            *.html
-            !*.org.html # Exclude any intermediate files if necessary
+          version: 29.4
+
+      - name: Export Org to HTML
+        run: |
+          emacs --batch \
+            --eval "(require 'org)" \
+            --eval "(require 'ox-html)" \
+            --visit "Riders guide draft final kdl.org" \
+            --funcall org-html-export-to-html
+
+      - name: Commit and push HTML
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "Riders guide draft final kdl.html"
+          git diff --cached --quiet || git commit -m "Auto-export: update HTML from Org source"
+          git push
