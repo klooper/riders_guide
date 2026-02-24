@@ -326,27 +326,27 @@ You can add a favorite location any time you choose a destination. Just tap the 
        #+CAPTION: Click the heart symbol by a location to add it to your favorites list.
        #+NAME: Figure 11:
        #+ATTR_HTML: :width 180px
-       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig12.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig11.png]]
 
  After you set a favorite location, it will be available any time you tap in the Where To box to choose a destination.
 
  If you want to delete a favorite location, follow these steps:
     1. Tap on the profile circle at the top left of the Where To screen to open your profile, as shown in Figure 12.
-       
+
        #+CAPTION: The profile button.
        #+NAME: Figure 12:
        #+ATTR_HTML: :width 180px
-       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig13.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig12.png]]
 
     2. Choose Settings.
     3. Choose Favorite Locations.
     4. Tap to select the location you want to delete.
     5. Tap the Delete Favorite Location button, as shown in Figure 13.
-       
+
        #+CAPTION: The Edit Favorite Location screen.
        #+NAME: Figure 13:
        #+ATTR_HTML: :width 360px
-       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig14.png]]
+       [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig13.png]]
        
        
  #+begin_tip
