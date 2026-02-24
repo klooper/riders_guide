@@ -563,7 +563,7 @@ To change your default accessiblity preferences so that the needed equipment is 
   4. Choose the Accessibility Features you will need by default, including lift, walker, wheelchair, service animal, and child seats for infants by clicking the + next to each feature you need.
 
 To set up particular needs for a particular ride, follow these steps:
-  1. Set up your ride as described in [[Scheduling Trips in the HCE Rides App][Scheduling Trips in the HCE Rides App]].
+  1. Set up your ride as described in [[Scheduling Trips Using the HCE Rides App][Scheduling Trips Using the HCE Rides App]].
   2. Before clicking the Select Hamilton County Express button, click the Accessibility button above it (top-right button).
   3. Select the accessibility features you require by clicking the + sign to add it to that ride only.
      
