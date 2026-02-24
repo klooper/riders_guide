@@ -20,15 +20,15 @@ jobs:
       - name: Set up Emacs
         uses: purcell/setup-emacs@master
         with:
-          version: 29.4
+          version: snapshot
 
       - name: Export Org to HTML
         run: |
           emacs --batch \
             --eval "(require 'org)" \
             --eval "(require 'ox-html)" \
-            --file "Riders guide draft final kdl.org" \
-            -f org-html-export-to-html
+            --eval "(find-file \"Riders guide draft final kdl.org\")" \
+            --eval "(org-html-export-to-html nil)"
 
       - name: Commit and push HTML
         run: |
