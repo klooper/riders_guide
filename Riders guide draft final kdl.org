@@ -484,7 +484,7 @@ On Android, go to Settings > Notifications > Advanced Settings > Notification Hi
   #+CAPTION: Android notification history.
   #+NAME: Figure 14:
   #+ATTR_HTML: :width 360px
-  [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig15.png]]
+  [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig14.png]]
 
 
 
