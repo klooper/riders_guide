@@ -277,9 +277,9 @@ You can schedule trips yourself using the HCE Rides app without having to call H
 
 	You will see a confirmation of your ride, as shown in Figure 9.
 
-       #+CAPTION: If you don't see  "Ride with /Driver/," then the ride is in Unmatched status.
+       #+CAPTION: If you don't see ride with [driver name] (left), then your ride is in unmatched status, meaning that you don't yet have the ride, but we're working on it.
        #+NAME: Figure 9:
-       #+ATTR_HTML: :width 360px
+       #+ATTR_HTML: :width 800px
        [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig09.png]]
 
        The HCE Rides app won't allow you to create an unmatched request (, but the trip may become unmatched due to a service disruption
