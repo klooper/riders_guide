@@ -26,13 +26,13 @@
  - *TTY:* +1 (800) 743-3333
 
 
-1555 Westfield Road  Noblesville, Indiana 46062
+1555 Westfield Road Noblesville, Indiana 46062
 
 
 +1 (317) 773-8781
 
 
-Hamilton County Express provides regional public transportation for all communities in Hamilton County, Indiana and is operated by Janus Developmental Services, located at 1555 Westfield Road in Noblesville, Indiana. All members of the public are eligible for transportation support for any  purpose within Hamilton County during the days and hours of HCE operation.
+Hamilton County Express provides regional public transportation for all communities in Hamilton County, Indiana and is operated by Janus Developmental Services, located at 1555 Westfield Road in Noblesville, Indiana. All members of the public are eligible for transportation support for any purpose within Hamilton County during the days and hours of HCE operation.
 
 * Understanding the Hamilton County Express Transportation Service
 Hamilton County Express is an on-demand, curb-to-curb, mobility-accessible transportation service for Hamilton County Indiana.
@@ -42,7 +42,7 @@ Hamilton County Express transportation service has the following characteristics
   
 - *Curb-to-curb:* Unlike fixed-route bus services (such as IndyGo in Indianapolis) that have designated stops where you must catch the bus, Hamilton County Express provides curb-to-curb transportation within Hamilton County. So HCE can pick you up in front of your home and take you directly to work, to a medical appointment, to school, to the grocery store, and so on.
   
-- *Mobility-accessible:* Hamilton County Express provides extensive support for mobility-limited, special needs, and non-ambulatory riders within our area of operation, including support for wheelchairs, walkers, scooters, as well as lifts to help mobility-challenged passengers board the bus. See [[Mobility-Accessible Transit Services][Mobility-Accessible Transit Services]] for more information on mobility operations and constraints. /See also,/ our  [[Policy: Reasonable Accommodation][Reasonable Accomodation]] policy.
+- *Mobility-accessible:* Hamilton County Express provides extensive support for mobility-limited, special needs, and non-ambulatory riders within our area of operation, including support for wheelchairs, walkers, scooters, as well as lifts to help mobility-challenged passengers board the bus. See [[Mobility-Accessible Transit Services][Mobility-Accessible Transit Services]] for more information on mobility operations and constraints. /See also,/ our [[Policy: Reasonable Accommodation][Reasonable Accommodation]] policy.
   
 - *On-demand:* HCE is an /on-demand/ service, meaning that you have to select the schedule you need. You must submit a request for each ride to come to your pick-up location and transport you to your destination. See [[Scheduling Rides][Scheduling Rides]] for more information about requesting rides.
   
@@ -105,7 +105,7 @@ Hamilton County is generally square and is bounded by North 1200 East as the wes
 [[https://raw.githubusercontent.com/klooper/riders_guide/main/img/rgfig01.png]]
   
 Currently HCE provides service connections to the following surrounding counties:
-- *Marion County* - lndyGo +1 (317) 635-3344 ([[https://indygo.net/routes][IndyGo web site]]). HCE provides service connections to and from the following lndyGo bus stops in Indianapolis:
+- *Marion County* - IndyGo +1 (317) 635-3344 ([[https://indygo.net/routes][IndyGo web site]]). HCE provides service connections to and from the following IndyGo bus stops in Indianapolis:
   + *St. Vincent Indianapolis Hospital* (bus shelter on Harcourt Road)
   + *Keystone at the Crossing Mall* (bus shelter in front of Benihana)
   + *Nora Plaza* (bus shelter on westbound 86th at the Monon Trail)
@@ -115,8 +115,8 @@ Currently HCE provides service connections to the following surrounding counties
    connections to and from the following (BATS) connecting locations in Zionsville:
   + *Montgomery Aviation* 11329 East State Road 32, Zionsville, IN 46077
   + *Zionsville Presbyterian Church* 4775 West 116th Street, Zionsville, IN 46077
-- *Madison Co.* - Transportation for Rural Areas of Madison Co. (TRAM) ([[https://https://www.cirta.us/county-connect/transportation-resources/tram/][TRAM web site]]). +1 (885) 743-3843. HCE provides service connections to and from the following (TRAM) connecting location in Pendleton:
-  + *Loves Travel Stop* 9000 lnterpark Dr., Pendleton, IN 46064
+- *Madison Co.* - Transportation for Rural Areas of Madison Co. (TRAM) ([[https://www.cirta.us/county-connect/transportation-resources/tram/][TRAM web site]]). +1 (885) 743-3843. HCE provides service connections to and from the following (TRAM) connecting location in Pendleton:
+  + *Loves Travel Stop* 9000 Interpark Dr., Pendleton, IN 46064
 
 * Setting Up an HCE Rider Account
 Before you can schedule rides on the Hamilton County Express (HCE) service, you have to call in to the reservations line — +1 (317) 773-2688 — to get set up on the HCE system. The following information is required to set up an account, so be prepared to provide it:
@@ -141,7 +141,7 @@ HCE provides telephone translation services upon request for most languages, inc
 - *How you intend to pay:* Generally, this will be cash or eWallet. See [[Paying for Trips on HCE][Paying for Trips on HCE]] for more information about payment options.
 - *Home address:* Having a home address outside of Hamilton County does not exclude anyone as a rider for HCE, but we cannot pick up at residences or businesses outside of Hamilton County, except for approved county connection points (see [[Hamilton County Express Service Area][Hamilton County Express Service Area]] for more information about connection points). Be prepared to provide information about where and how you want to be picked up, keeping in mind that buses are generally prohibited from entering rider driveways except as a reasonable accommodation.
   
-After you call in to set up your rider account, you can use your phone number or other credential to access your schedule information via the HCE Rides app. See [[Scheduling Trips Using the HCE Rides App ][Scheduling Trips Using the HCE Rides App]] for more information about the HCE Rides mobile app.
+After you call in to set up your rider account, you can use your phone number or other credential to access your schedule information via the HCE Rides app. See [[Scheduling Trips Using the HCE Rides App][Scheduling Trips Using the HCE Rides App]] for more information about the HCE Rides mobile app.
 
 #+begin_tip
 Your eWallet is automatically created when your rider account is created. You can add it at any time by giving money to the driver.
@@ -425,7 +425,7 @@ You can cancel your accepted trip or unmatched request in three ways:
   + More than 24 hours before your trip: Call Customer Service +1 (317) 773-2688, Monday through Friday 8:00 AM to 4:00 PM.
   + On the same day as your trip: Call Dispatch at +1 (317) 776-3226, Monday through Friday, 6:00 AM to 6:00 PM.
 If your call goes to voicemail, please leave a message with your name, phone number, and the cancellation information (such as which ride(s) to cancel (outbound or return), the date of the ride you want to cancel, and the cancellation reason). We check voicemail frequently for messages during normal business hours.
-Remember: Regardless of how you cancel your trip, it’s important to provide a reason for the cancellation. Cancellations reasons that are accepted can help to maintain your access to future HCE rides. See our Late Cancellation and No-Show [[Policy: Late Cancellations and No-Shows][Policy]].
+Remember: Regardless of how you cancel your trip, it’s important to provide a reason for the cancellation. Cancellations reasons that are accepted can help to maintain your access to future HCE rides. See our [[Policy: Late Cancellations and No-Shows][Late Cancellation and No-Show Policy]].
 * Getting Ride Notifications
 When you set up your new rider profile with the Customer Service department, you can choose among the following options to receive notifications about your trips:
  - *Text message:* This method has the advantage of interactive messages.
@@ -518,7 +518,7 @@ Enjoy your ride, but please exercise common sense while riding the bus. For exam
 - *Don’t bring firearms or other weapons on the bus.*
 - *Rider conduct:* For more information, please see the [[Policy: Rider Conduct][rider conduct policy]].
   
-Before departing the bus, make sure that you have collected all your belongings. If you later discover that you may have left an item on the bus, call Dispatch at +1 (317) 776-3226 and we will confirm whether the driver found the item. You can retrieve the item(s) at the Hamilton County Express office at 1555 Westfield Road, Noblesville, IN 46062. See our Lost and Found [[Policy: Lost and Found][policy]].
+Before departing the bus, make sure that you have collected all your belongings. If you later discover that you may have left an item on the bus, call Dispatch at +1 (317) 776-3226 and we will confirm whether the driver found the item. You can retrieve the item(s) at the Hamilton County Express office at 1555 Westfield Road, Noblesville, IN 46062. See our [[Policy: Lost and Found][Lost and Found Policy]].
 After you finish your ride, please take the time to rate your experience. You will be notified of your ability to complete a survey about your ride. Be as specific as possible with your feedback. 
 Here’s an example of a good review, which management would want to commend the driver for:
 
@@ -533,7 +533,7 @@ The above reviews are obviously tongue in cheek  — /our drivers would never!/ 
 HCE provides on-demand public transportation comprising a fleet of fully accessible vehicles equipped with motorized lifts and/or ramps to facilitate vehicle entry and exiting by individuals utilizing mobility devices.
 It’s important that you provide all information pertaining to special needs, challenges, and accessibility characteristics when you set up your profile with a Hamilton County Express customer service agent when setting up your account. That way, the driver knows what accommodations are necessary, and we can ensure that we send a bus has the right equipment to fulfill your ride request.
 Here are a couple of important notes about our mobility-accessible services:
-- Reasonable Accomodations: The following are accommodations that HCE can make for passengers with special needs:
+- Reasonable Accommodations: The following are accommodations that HCE can make for passengers with special needs:
   + *Door-to-door driver assistance:* HCE service is /curb-to-curb/ (origin to destination), but drivers can assist all passengers who require it onto and off the vehicles. /Door-to-door service/ (assistance provided by the driver from the door to and from the bus) is available upon request to the driver, customer service, or dispatch for those needing reasonable assistance (arm holding, guiding visually impaired riders, pushing a wheelchair, and so on) to or from the doorway of their home/building main entrance and bus. 
   + *Driveway Entry:* HCE buses are generally prohibited from entering rider driveways to avoid property damage and the possibility of the bus becoming stuck, but drivers may be allowed to do so as a reasonable accommodation with expressed approval from HCE management. Call dispatch — +1 (317) 776-3226 — and ask for a manager to discuss this possibility.
     
@@ -692,7 +692,7 @@ A rider may temporarily suspend their subscription trips if they do not need the
 Failure to give 72-hour notice of subscription suspension may result in scheduled subscribed days being counted as cancellations.
 #+end_warning
 
-To apply for a subscription trip, fill out this [[https://docs.google.com/forms/d/e/1FAIpQLSdDRpElzaYAbluEVRgGbxNY8t3oK94Z-GJPo9FaMmoQxOsqAg/viewform?usp=sharing&ouid=104367918995370115081][online subscripton request form]].
+To apply for a subscription trip, fill out this [[https://docs.google.com/forms/d/e/1FAIpQLSdDRpElzaYAbluEVRgGbxNY8t3oK94Z-GJPo9FaMmoQxOsqAg/viewform?usp=sharing&ouid=104367918995370115081][online subscription request form]].
 
 ** Policy: Suspension Appeals
 Appeals of any HCE actions regarding suspension of service should be submitted in writing and addressed to:
