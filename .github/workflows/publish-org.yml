@@ -27,7 +27,6 @@ jobs:
           emacs --batch \
             --eval "(require 'org)" \
             --eval "(require 'ox-html)" \
-            --eval "(setq org-safe-remote-resources '(\"https://fniessen\\.github\\.io/\"))" \
             --eval "(find-file \"Riders guide draft final kdl.org\")" \
             --eval "(org-html-export-to-html nil)"
           mv "Riders guide draft final kdl.html" index.html
